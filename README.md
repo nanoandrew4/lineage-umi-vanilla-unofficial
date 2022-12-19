@@ -2,7 +2,7 @@
 
 This repository hosts vanilla builds of Lineage OS for umi devices. You can run Lineage by itself, or flash GApps if you wish, following the instructions in the appropriate section.
 
-## Vanilla instalation
+## Vanilla installation
 
 To install vanilla Lineage, with no GApps, simply grab the [latest release](https://github.com/nanoandrew4/lineage-umi-vanilla/releases) zip on this repository alongisde the appropriate recovery file, and flash it to your phone. You'll need the ADB and fastboot command line tools installed to do this, see [this](https://www.xda-developers.com/install-adb-windows-macos-linux/) guide if you don't have them set up, and your phone plugged in to your computer. These are the steps to flash the ROM onto your phone:
 
